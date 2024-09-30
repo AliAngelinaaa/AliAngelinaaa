@@ -1,41 +1,51 @@
-<!--
-**AliAngelinaaa/AliAngelinaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <span style="color: pink;">🚀 Welcome to Allie's World of Innovation & Tech Exploration! 🎀</span>
+> *Co-Founder @ WIT Unite | Service Recovery Analyst @ Healthfirst | Coding Enthusiast | Future Master’s @ Northeastern University (2025)*
 
-Here are some ideas to get you started:
+Passionate about creating impactful solutions, I am on a journey to empower women in tech and explore the dynamic world of software engineering!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/they
-- ⚡ Fun fact: ...
--->
+---
 
-### Hi there, I'm Nafisa (nahFEEsah), aka Ali (æLEE) 👋
+## <span style="color: pink;">About Me 👩‍💻 🎀</span>
+Hi! I’m **Nafisa (or Allie)**, a graduate of Brooklyn College with a B.S. in Computer Science, now pursuing my M.S. at Northeastern University (Spring 2025). I’ve been driven by a passion for building scalable applications and creating seamless user experiences across various domains. I love challenges that push my creativity and technical prowess.
 
-I am a junior at Brooklyn College, and I am set to graduate early in Spring 2024. I am passionate about web development and am currently honing my skills in HTML, CSS, and JavaScript. I'm also exploring various frameworks and libraries, such as React and Node.js, to expand my knowledge and capabilities.
+### <span style="color: pink;">Quick Facts:</span> 🎀
+- 💡 **3 Years Bachelor's Completion** at Brooklyn College
+- 💻 **Full-stack Developer** | Java | Python | JS | Go
+- 🎮 **Tech Enthusiast** & Gamer
+- 👩‍👧‍👧 Co-founder of **WIT Unite** – Empowering Women in Tech
+- 🌍 Based in the tech hub of **NYC** and always exploring new opportunities to grow!
 
-### 🔭 Current Projects
-- Working on a personal portfolio website to showcase my skills and projects.
-- Developing a quiz maker for easier studying
+Let’s connect for collaborations or just to chat about the latest in tech! 
 
-### 🌱 Learning
-- Expanding my knowledge of front-end and back-end development.
-- Exploring modern web development practices and design principles.
+---
 
-### 👯 Collaboration
-- Open to collaborating on web development projects and contributing to meaningful initiatives within the tech community.
+## <span style="color: pink;">Tech Toolbox 🔧 🎀</span>
+- **Languages**: Java, Python, JavaScript, Go, SQL
+- **Frameworks & Libraries**: React, Redux, Node.js, Express, PostgreSQL
+- **Tools**: AWS, GCP, Datadog, BigQuery, Fivetran, Slack
+- **Soft Skills**: Agile Methodologies, Leadership, Project Management
 
-### 💬 Ask me about
-- My journey in tech and education.
-- Tips and tricks for getting started in web development.
-- Navigating the college experience while focusing on personal and professional growth.
+---
 
-### 📫 How to Reach Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nafisa-anzum-aa8526216/) or reach out via email at nafisa.anzum2003@gmail.com.
+## <span style="color: pink;">Projects 🚧 🎀</span>
 
-😄 Pronouns: she/they
+### [Polyglot Palace](https://polyglotpalace.netlify.app/)
+*Built as part of NYC Tech Talent Pipeline Residency*
+- A platform for immersive language learning with React, Redux, and AI-powered ChatBot integration.
+- **Tech Stack**: React | Redux | Node.js | PostgreSQL
 
-⚡ Fun Fact: I love vlogging and writing stories!
+### [Club Finder](https://aliangelinaaa.github.io/ClubFinder/)
+- Centralized platform for CUNY students to explore and connect with clubs across campuses.
+- **Tech Stack**: JavaScript | Bootstrap
+
+---
+
+## <span style="color: pink;">What I’m Up To Lately 👀 🎀</span>
+- 🌱 Improving my portfolio with new projects every day!
+- 🖥️ Job shadowing at Healthfirst as a **Service Recovery Analyst**
+- 📚 Preparing for my next chapter at **Northeastern University** in Spring 2025
+
+---
+
+## <span style="color: pink;">Let's Connect 🤝 🎀</span>
+Find me on [LinkedIn](https://www.linkedin.com/in/nafisaanzum/) or check out my [GitHub](https://github.com/AliAngelinaaa/) for more cool projects!
