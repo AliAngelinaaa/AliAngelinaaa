@@ -1,12 +1,12 @@
 # <span style="color: pink;">🚀 Welcome to Allie's World of Innovation & Tech Exploration! 🎀</span>
-> *Co-Founder @ WIT Unite | Service Recovery Analyst @ Healthfirst | Coding Enthusiast | Future Master’s @ Northeastern University (2025)*
+> *Co-Founder @ WIT Unite | Service Recovery Analyst @ Healthfirst | Coding Enthusiast | Master’s in Information Systems @ Northeastern University (2025)*
 
 Passionate about creating impactful solutions, I am on a journey to empower women in tech and explore the dynamic world of software engineering!
 
 ---
 
 ## <span style="color: pink;">About Me 👩‍💻 🎀</span>
-Hi! I’m **Nafisa (or Allie)**, a graduate of Brooklyn College with a B.S. in Computer Science, now pursuing my M.S. at Northeastern University (Spring 2025). I’ve been driven by a passion for building scalable applications and creating seamless user experiences across various domains. I love challenges that push my creativity and technical prowess.
+Hi! I’m **Nafisa (or Allie)**, a graduate of Brooklyn College with a B.S. in Computer Science, now pursuing my M.S. at Northeastern University. I’ve been driven by a passion for building scalable applications and creating seamless user experiences across various domains. I love challenges that push my creativity and technical prowess.
 
 ### <span style="color: pink;">Quick Facts:</span> 🎀
 - 💡 **3 Years Bachelor's Completion** at Brooklyn College
@@ -43,7 +43,7 @@ Let’s connect for collaborations or just to chat about the latest in tech!
 ## <span style="color: pink;">What I’m Up To Lately 👀 🎀</span>
 - 🌱 Improving my portfolio with new projects every day!
 - 🖥️ Job shadowing at Healthfirst as a **Service Recovery Analyst**
-- 📚 Preparing for my next chapter at **Northeastern University** in Spring 2025
+- 📚 Doing my next chapter at **Northeastern University**
 
 ---
 
